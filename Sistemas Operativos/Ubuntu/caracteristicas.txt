@@ -1,1 +1,1 @@
-Ubuntu es un sistema operativo de software libre y código abierto. Es una distribución de Linux basada en Debian.
+Ubuntu es un sistema operativo de software libre y código abierto. Es una distribución de Linux, basada en Debian.
